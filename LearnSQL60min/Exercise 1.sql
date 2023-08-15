@@ -1,3 +1,5 @@
+suorce: https://github.com/WebDevSimplified/Learn-SQL
+
 -- Exercise 1
 
 USE record_company;
