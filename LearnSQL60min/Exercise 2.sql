@@ -1,3 +1,9 @@
+/*
+Author: Luan Santos
+Date: 15-08-2023
+suorce: https://github.com/WebDevSimplified/Learn-SQL
+*/
+
 -- Exercise 2
 
 SELECT name AS 'Band Name' FROM bands;
